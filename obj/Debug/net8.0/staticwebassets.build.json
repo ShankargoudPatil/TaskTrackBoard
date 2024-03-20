@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Xy9pQFlub3vcX7G1bB5UGhCUJabskbEqOHfb1CMm6nE=",
+  "Source": "TaskTrackBoardWebApi",
+  "BasePath": "_content/TaskTrackBoardWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
